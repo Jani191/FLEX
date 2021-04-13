@@ -1,0 +1,11 @@
+.csumi1{padding: 10px 0;
+    display: flex;
+
+}
+.csumi1 label{padding-right: 10px;
+
+}
+.csumi1 input{
+    flex: 1;
+
+}
